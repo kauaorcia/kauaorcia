@@ -10,7 +10,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">Software Developer with a focus on Java, seeking an entry-level position in the field. Experience in Object-Oriented Programming (OOP), building REST APIs with Spring Boot, microservices architecture, messaging with RabbitMQ, and SQL/NoSQL databases.</h5>
+<h5 data-importer="text" align="left">Software Developer with a focus on Java, seeking an entry-level position in the field. Experience in Object-Oriented Programming (OOP), building RESTful APIs, Spring Security, JWT, RabbitMQ, MySQL, MongoDB, and Docker. Solid foundation in Object-Oriented Programming (OOP), microservices architecture, messaging systems, automated testing (JUnit/Mockito), and version control (Git/GitHub).</h5>
 
 ###
 
